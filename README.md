@@ -1,5 +1,7 @@
 # `rust-parcel-template`
 
+> # ⚠️ The project is moved to [rustwasm/rust-parcel-template](https://github.com/rustwasm/rust-parcel-template) org
+
 **Kickstart your Rust, WebAssembly, and Parcel project!**
 
 This template comes pre-configured with all the boilerplate for compiling Rust
