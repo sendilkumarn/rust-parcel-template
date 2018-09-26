@@ -1,6 +1,7 @@
 # `rust-parcel-template`
 
-> # ⚠️ The project is moved to [rustwasm/rust-parcel-template](https://github.com/rustwasm/rust-parcel-template) org
+> ### :warning: deprecated :warning:
+> # ⚠️ The project is moved to [rustwasm/rust-parcel-template](https://github.com/rustwasm/rust-parcel-template)
 
 **Kickstart your Rust, WebAssembly, and Parcel project!**
 
